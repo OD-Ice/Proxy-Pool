@@ -1,0 +1,7 @@
+asyncio
+requests
+aiohttp
+bs4
+flask
+aiomysql
+lxml
