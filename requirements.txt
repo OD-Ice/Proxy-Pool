@@ -1,7 +1,9 @@
-asyncio
-requests
-aiohttp
-bs4
-flask
-aiomysql
-lxml
+aiohttp==3.6.2
+aiomysql==0.0.20
+altgraph==0.17
+asyncio==3.4.3
+lxml==4.5.0
+PyMySQL==0.9.3
+pytz==2020.1
+requests==2.23.0
+urllib3==1.25.9
